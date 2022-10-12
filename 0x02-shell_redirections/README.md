@@ -1,1 +1,1 @@
-prints “Hello, World”
+describing what each script is doing
